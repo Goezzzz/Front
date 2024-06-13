@@ -6,7 +6,7 @@
   color: antiquewhite;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 32px;
-  margin-left: 9px; 
+  margin-left: 45px; 
 }
 
 
@@ -23,12 +23,12 @@
   border-bottom: #a4a4a481 solid 3px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 20px;
-  background-color: #338bff;
+  background-color: #000000;
   color: antiquewhite;
   cursor: pointer;
 }
 .button:hover{
-  background-color: #2080fd;
+  background-color: #5B5C5C;
 }
 
 .custum-file-upload {

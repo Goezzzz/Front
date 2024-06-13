@@ -5,4 +5,4 @@ const config = {
   },
 };
 
-export default config;j
+export default config;

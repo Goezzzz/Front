@@ -13,9 +13,9 @@ export default function Home() {
   const [data, setData] = useState({})
   return (
    <>
-    <nav className="w-full  h-[80px] flex justify-between items-center bg-cyan-500/60">
-      <h1 className="letras_nav text-white ml-4 hidden md:block">Secretaria de movilidad</h1>
-      <img src={"/logo.png"} width={"80"} height={"60"} alt="" />
+    <nav className="w-full  h-[80px] flex justify-between items-center bg-[#000000]">
+      <h1 className="letras_nav text-white ml-4 hidden md:block">Recaudo Asesor</h1>
+      <img src={"/Logo3.png"} width={"120"} height={"80"} alt="" />
     </nav>
     <section className="flex justify-center">
      <Files 
